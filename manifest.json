@@ -9,6 +9,7 @@
     "128": "img/astr128.png"
   },
   "browser_action":{
+    "default_title": "Open Popup!",
     "default_icon":"img/astr16.png",
     "default_popup":"popup.html"
   }
