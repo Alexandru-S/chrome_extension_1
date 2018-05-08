@@ -1,0 +1,15 @@
+{
+  "manifest_version":2,
+  "version":"1.0",
+  "name":"Chrome Extesnion Stuff",
+  "description":"Chrome extesnion for trying out new things.",
+  "icons": {
+    "16": "img/astr16.png",
+    "48": "img/astr48.png",
+    "128": "img/astr128.png"
+  },
+  "browser_action":{
+    "default_icon":"img/astr16.png",
+    "default_popup":"popup.html"
+  }
+}
